@@ -1,0 +1,1 @@
+Altyapıyı çalmayın.
